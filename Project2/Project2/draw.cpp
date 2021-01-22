@@ -73,6 +73,4 @@ int main() {
 		++c;
 	}
 	print_fixtures(gr);
-	getchar();
-	getchar();
 }
